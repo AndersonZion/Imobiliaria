@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+Temporario
+
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Secrets
+.env
+appsettings.Development.json
+
+# Others
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Dependency directories
+node_modules/
+wwwroot/lib/
+
+# Publish results
+*.Publish.xml
+*.publishsettings
