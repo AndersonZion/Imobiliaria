@@ -1,7 +1,7 @@
-﻿using SistemaImobiliario.Domain.Notifications;
+﻿
+using SistemaImobiliario.Shared.Notifications;
 
-
-namespace SistemaImobiliario.Application.Common
+namespace SistemaImobiliario.Shared.Common
 {
     public class ServiceResult<T>
     {

@@ -1,5 +1,5 @@
 
-using SistemaImobiliario.Application.Common;
+using SistemaImobiliario.Shared.Common;
 using SistemaImobiliario.Application.DTOs;
 
 namespace SistemaImobiliario.Application.Interfaces

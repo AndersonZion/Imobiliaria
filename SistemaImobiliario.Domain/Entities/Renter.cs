@@ -1,4 +1,4 @@
-﻿using SistemaImobiliario.Domain.Notifications;
+﻿using SistemaImobiliario.Shared.Notifications;
 using SistemaImobiliario.Domain.ValueObjects;
 
 namespace SistemaImobiliario.Domain.Entities

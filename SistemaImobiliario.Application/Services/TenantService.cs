@@ -1,10 +1,10 @@
 
-using SistemaImobiliario.Application.Common;
+using SistemaImobiliario.Shared.Common;
 using SistemaImobiliario.Application.DTOs;
 using SistemaImobiliario.Application.Interfaces;
 using SistemaImobiliario.Domain.Entities;
 using SistemaImobiliario.Domain.Interfaces;
-using SistemaImobiliario.Domain.Notifications;
+using SistemaImobiliario.Shared.Notifications;
 using System.Linq;
 
 namespace SistemaImobiliario.Application.Services

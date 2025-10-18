@@ -1,5 +1,5 @@
 
-using SistemaImobiliario.Domain.Notifications;
+using SistemaImobiliario.Shared.Notifications;
 
 namespace SistemaImobiliario.Domain.ValueObjects
 {

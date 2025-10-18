@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SistemaImobiliario.Application.Common;
+using SistemaImobiliario.Shared.Common;
 
 namespace SistemaImobiliario.API.Controllers
 {

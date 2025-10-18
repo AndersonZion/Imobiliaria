@@ -1,4 +1,4 @@
-﻿using SistemaImobiliario.Application.Common;
+﻿using SistemaImobiliario.Shared.Common;
 using SistemaImobiliario.Application.DTOs;
 using SistemaImobiliario.Application.Interfaces;
 using SistemaImobiliario.Domain.Entities;

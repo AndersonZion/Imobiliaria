@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SistemaImobiliario.Domain.Entities;
-using SistemaImobiliario.Domain.Notifications;
+using SistemaImobiliario.Shared.Notifications;
 
 namespace SistemaImobiliario.Infrastructure.Data
 {

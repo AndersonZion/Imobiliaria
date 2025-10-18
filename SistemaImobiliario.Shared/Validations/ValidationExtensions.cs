@@ -1,4 +1,4 @@
-using SistemaImobiliario.Domain.Notifications;
+using SistemaImobiliario.Shared.Notifications;
 
 public static class ValidationExtensions
 {

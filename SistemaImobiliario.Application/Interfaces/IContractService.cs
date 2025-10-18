@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using SistemaImobiliario.Application.Common;
+using SistemaImobiliario.Shared.Common;
 using SistemaImobiliario.Domain.Entities;
 
 namespace SistemaImobiliario.Application.Interfaces

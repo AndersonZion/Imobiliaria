@@ -1,5 +1,5 @@
 ﻿
-namespace SistemaImobiliario.Domain.Notifications
+namespace SistemaImobiliario.Shared.Notifications
 {
     public class Notification
     {

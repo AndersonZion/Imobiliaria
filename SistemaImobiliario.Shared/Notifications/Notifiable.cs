@@ -1,6 +1,6 @@
 ﻿
 
-namespace SistemaImobiliario.Domain.Notifications
+namespace SistemaImobiliario.Shared.Notifications
 {
     public abstract class Notifiable
     {
